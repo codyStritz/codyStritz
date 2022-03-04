@@ -7,7 +7,7 @@ To work with Firebase (Auth and Firestore in particular)
 ### 💞️ I’m looking to collaborate on ...
 Any Android projects!!
 ### 📫 How to reach me ...
-Message me on LinkedIn! Link is on my profile!
+Message me on LinkedIn!
 
 <!---
 codyStritz/codyStritz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
