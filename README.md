@@ -1,12 +1,9 @@
-👋 Hi, I’m @codyStritz - A computer science student and aspiring native Android engineer. 
+Hi there 👋 
 
-👀 I’m interested in native Android development in Kotlin/Java (Kotlin first!)
-
-🌱 I’m currently learning to work with Firebase (Auth and Firestore in particular)
-
-💞️ I’m looking to collaborate on any Android projects!!
-
-📫 Connect with me on LinkedIn!
+- 👀 I’m interested in native Android development in Kotlin/Java (Kotlin first!)
+- 🌱 I’m currently learning to work with Firebase (Auth and Firestore in particular)
+- 💞️ I’m looking to collaborate on any Android projects!!
+- 📫 Connect with me on LinkedIn!
 
 <!---
 codyStritz/codyStritz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
