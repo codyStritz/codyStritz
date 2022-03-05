@@ -1,4 +1,4 @@
-Hi there 👋 
+### Hi there 👋 
 
 - 👀 I’m interested in native Android development in Kotlin/Java (Kotlin first!)
 - 🌱 I’m currently learning to work with Firebase (Auth and Firestore in particular)
