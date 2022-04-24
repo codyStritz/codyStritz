@@ -36,5 +36,5 @@
 
 [website]: https://www.codystritz.com
 [twitter]: https://twitter.com/CodyStritz
-[linkedin]: https://www.linkedin.com/in/codystritz
+[linkedin]: https://www.linkedin.com/in/stritzcm
 [playstore]: https://play.google.com/store/apps/dev?id=9028817539761901588
